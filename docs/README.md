@@ -2,44 +2,51 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
+name: Vladimir Juárez
 profile: /profile.jpg
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/vladimirjv
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
+    link: https://www.linkedin.com/in/vladimir-juarez/
   - title: instagram
     icon: "/icons/instagram-mono.svg"
     link: https://www.instagram.com
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+cv: docs/ivladimirjuarezcv.pdf
+bio: Software Developer 💻
+email: ivladimirjuarez@gmail.com
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
+Always disciplined and committed with my passions, technology, **automation**, and the **IoT**.
 
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I learned persistently and improved my **soft skills** 📣 working in great teams, developing and building different projects, also leadership skills helped me to perform and adapt to circumstances to deliver in a deadline.
 
 
 ## News
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- [Feb 2019] - [Jan 2020] I worked in **Stackcode** at ***Veracruz***, ver as **Software Developer**.
+- [Nov 2019] I graduated as **Mechatronic Engineer** at [Instituto Tecnológico de Veracruz](http://www.itver.edu.mx/) with a specialization in **automation**.
+- [Mar 2019] I finished college at [Instituto Tecnológico de Veracruz](http://www.itver.edu.mx/).
+- [Aug 2018] - [Feb 2019] I made my ***internship*** in **Mabe Typ** at **Quéretaro**.
+
 
 
 ## Education & Experiences
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- **Instituto Tecnológico de Veracruz (Mechatronic Engineer)** <br/>
+Aug 2014 - March 2019
+- **Diploma In Computing Systems (Computación del golfo)** <br/>
+May 2015
+- [**Diploma Industrial Automation (Computación del golfo)**](docs/) <br/>
+Oct 2016
 
 
 ## Projects
