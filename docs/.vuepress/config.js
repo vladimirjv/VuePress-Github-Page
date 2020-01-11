@@ -9,8 +9,8 @@ module.exports = {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
+      // { text: "About", link: "/about/" },
+      // { text: "Projects", link: "/projects/" },
       // { text: "Guide", link: "/guide/" },
       // { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
     ],

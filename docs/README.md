@@ -55,7 +55,7 @@ May 2015
 Oct 2016
 
 
-## Projects
+<!-- ## Projects
 
 
 [→ Full list](/projects/)
@@ -80,14 +80,16 @@ Oct 2016
 
   [[Link](https://www.google.com)]
 
-</ProjectCard>
+</ProjectCard> -->
 
 
 ## Awards & Honors
 
 ### Contests
 
-- First place in **The Hogwarts House Cup**
+- First place **ITVER | "Technological Innovation 2018"**
+
+- Finalist in "Service" category **Centro Fox | Water Hackathon**
 
 
 <!-- Custom style for this page -->
