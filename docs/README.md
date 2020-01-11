@@ -12,9 +12,15 @@ socials:
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/vladimir-juarez/
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+  - title: gitlab
+    icon: "/icons/gitlab-mono.svg"
+    link: https://gitlab.com/vladimirjv
+  - title: devto
+    icon: "/icons/devto.svg"
+    link: https://dev.to/vladimirjv
+  # - title: instagram
+  #   icon: "/icons/instagram-mono.svg"
+  #   link: https://www.instagram.com
 
 cv: docs/ivladimirjuarezcv.pdf
 bio: Software Developer 💻
@@ -43,9 +49,9 @@ I learned persistently and improved my **soft skills** 📣 working in great tea
 
 - **Instituto Tecnológico de Veracruz (Mechatronic Engineer)** <br/>
 Aug 2014 - March 2019
-- **Diploma In Computing Systems (Computación del golfo)** <br/>
+- [**Diploma In Computing Systems (Computación del golfo)**](docs/systemsDiploma.pdf) <br/>
 May 2015
-- [**Diploma Industrial Automation (Computación del golfo)**](docs/) <br/>
+- [**Diploma Industrial Automation (Computación del golfo)**](docs/automationDiploma.pdf) <br/>
 Oct 2016
 
 
@@ -89,7 +95,7 @@ Oct 2016
 <style lang="stylus">
 
 .theme-container.home-page .page
-  font-size 14px
+  font-size 16px
   font-family "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, sans-serif;
   p
     margin 0 0 0.5rem
